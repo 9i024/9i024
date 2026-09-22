@@ -1,7 +1,5 @@
-## Chat am I cooked
-
-<img width="200" height="187" alt="emoji-disintegrating" src="https://github.com/user-attachments/assets/714896c1-16a3-4179-88a4-a2c4c2582b63" />
-
+## 9i024
+Hi I do stuff
 
 <!--
 **9i024/9i024** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
